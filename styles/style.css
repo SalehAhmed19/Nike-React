@@ -1,0 +1,48 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+/* font-family: 'Bebas Neue', sans-serif; */
+/* font-family: 'Poppins', sans-serif;*/
+/* font-family: 'Roboto', sans-serif; */
+*{
+    color: #363958;
+}
+.heading-primary{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 4em;
+}
+.heading-secondary{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2em;
+}
+.price{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 36px;
+    color: #FA804C;
+}
+.custom-text-color-01{
+    color: #FA804C;
+}
+.custom-text-color-02{
+    color: #363958;
+}
+.custom-bg-primary{
+    background-color: #FFF9F4;
+}
+
+.custom-card-bg{
+    background-color: #F1F1F1;
+}
+.custom-btn{
+    background-image: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    font-family: 'Roboto', sans-serif;
+}
+.shadow{
+    box-shadow: 5px 5px 10px #00000004;
+}
+.custom-radius{
+    border-radius: 20px;
+}
+.custom-card-title{
+    font-weight: 700;
+}
